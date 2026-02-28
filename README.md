@@ -13,7 +13,7 @@ literally.
 
 ## 学習中の技術
 - **Security:** SG勉強中
-- **Language:** (ここに今大学でやってる言語、Javaとかを書く)
+- **Language:** 日本語、冗談は置いておいてjava
 - **Tool:** Git / GitHub
 
 ##  ひとこと
