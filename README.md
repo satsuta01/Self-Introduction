@@ -11,7 +11,7 @@ literally.
 - [ ] Webアプリケーション（Java/Python）を1つ以上デプロイする
 - [ ] 長期インターンへの参加
 
-## 🛠 学習中の技術
+## 学習中の技術
 - **Security:** SG勉強中
 - **Language:** (ここに今大学でやってる言語、Javaとかを書く)
 - **Tool:** Git / GitHub
